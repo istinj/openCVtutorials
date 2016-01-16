@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( surfDetector )
+find_package( OpenCV REQUIRED )
+add_executable( surfDetector src/surf_detector.cpp )
+target_link_libraries( surfDetector ${OpenCV_LIBS} )
+set_target_properties( surfDetector PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin )

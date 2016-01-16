@@ -1,0 +1,1 @@
+/home/istin/Documenti/OpenCV_tutorial/surf_detector/build/CMakeFiles/surfDetector.dir

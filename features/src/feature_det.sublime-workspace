@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CV",
+				"CV_32FC1"
+			],
+			[
+				"src",
+				"src_s"
+			],
+			[
+				"C",
+				"CV_32FC1"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"nomr",
+				"norm_H"
+			],
+			[
+				"sr",
+				"src_image"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"s",
+				"src_image"
+			],
+			[
+				"wind",
+				"windowname_1"
+			],
+			[
+				"se",
+				"src_image"
+			],
+			[
+				"_",
+				"_current_gray"
+			],
+			[
+				"Ke",
+				"keypoints"
+			],
+			[
+				"cur",
+				"_current_gray"
+			],
+			[
+				"sc",
+				"scharr"
+			],
+			[
+				"fil",
+				"filters_windowname"
+			],
+			[
+				"sh",
+				"scharr_hor"
+			],
+			[
+				"pr",
+				"prc_image"
+			],
+			[
+				"de",
+				"delta"
+			],
+			[
+				"w",
+				"windowname"
+			],
+			[
+				"wi",
+				"waitKey"
+			],
+			[
+				"cv",
+				"CV_32F"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"mid",
+				"mid_size"
+			],
+			[
+				"sigma",
+				"sigma"
+			],
+			[
+				"kerne",
+				"kernel_size"
+			],
+			[
+				"ke",
+				"kernel_size"
+			],
+			[
+				"ken",
+				"kernel_type"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ker",
+				"kernel_size"
+			],
+			[
+				"im",
+				"imshow"
+			],
+			[
+				"bl",
+				"blurred"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"name",
+				"namedWindow"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ne",
+				"new_cols"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"n",
+				"new_rows"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"do",
+				"dot_product"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/istin/Documenti/OpenCV_tutorial/own_features/CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/istin/Documenti/OpenCV_tutorial/features/CMakeLists.txt",
+		"/home/istin/Documenti/OpenCV_tutorial/features/src/feature_det.cpp",
+		"/home/istin/Documenti/OpenCV_tutorial/features/build_n_run.sh",
+		"/home/istin/Documenti/OpenCV_tutorial/CMakeLists.txt",
+		"/home/istin/Documenti/OpenCV_tutorial/img_prc/imgProcessing.cpp",
+		"/home/istin/Documenti/OpenCV_tutorial/own_kernel/src/myKernel.cpp",
+		"/home/istin/Scaricati/esercitazione1parte1.m",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/opengl_primitives.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/opengl_primitives.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/point_track.cpp",
+		"/home/istin/Documenti/OpenCV_tutorial/load_image/loadImage.cpp",
+		"/home/istin/Documenti/OpenCV_tutorial/own_kernel/build_n_run.sh",
+		"/home/istin/Scaricati/GSobel.m",
+		"/home/istin/Documenti/OpenCV_tutorial/imgProcessing.cpp",
+		"/home/istin/Documenti/OpenCV_tutorial/myKernel.cpp",
+		"/home/istin/catkin_ws_xtion/src/thin_xtion/src/thin_xtion_node.cpp",
+		"/media/istin/OS/Users/Istin/Documents/MATLAB/Computer Vision/Pattern_Rec/Gaussian2DFilter.m",
+		"/media/istin/OS/Users/Istin/Documents/MATLAB/Computer Vision/Pattern_Rec/gaussian_kernel_mod.m",
+		"/home/istin/Documenti/OpenCV_tutoriaò/imgProcessing.cpp",
+		"/media/istin/OS/Users/Istin/Documents/MATLAB/Computer Vision/Pattern_Rec/Gaussian2DFilter_mod.m",
+		"/home/istin/Documenti/OpenCV_tutoriaò/loadImage.cpp",
+		"/home/istin/Documenti/OpenCV_tutoriaò/webcam.cpp",
+		"/home/istin/.config/sublime-text-3/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/frame_info_manager.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/frame_info.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/landmark.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/posit_solver.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/point_track.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/lk_tracker.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/lk_tracker.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/lk_app.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/frame_info_manager.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/frame_info.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/key_frame.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/lk_viewer.cpp",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/lk_viewer.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/simple_viewer.h",
+		"/home/istin/Scaricati/ggrisetti-rgbdt/src/simple_viewer.cpp",
+		"/home/istin/Scaricati/3D_Models/obj2json/conv.sh",
+		"/home/istin/Scaricati/3D_Models/OBJ/custom_scene.mtl",
+		"/home/istin/Scaricati/3D_Models/OBJ/retro.mtl",
+		"/home/istin/Scaricati/3D_Models/JSON/retro_scene.json",
+		"/home/istin/Scaricati/3D_Models/JSON/custom_scene_no_mat.json",
+		"/home/istin/Documenti/Cpp_Ex/ex0/ex0.sh",
+		"/home/istin/Documenti/Cpp_Ex/ex0/src/Vec.cpp",
+		"/home/istin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/istin/Documenti/Cpp_Ex/esercitazione2/README",
+		"/home/istin/Documenti/Cpp_Ex/esercitazione2/build/CMakeFiles/CMakeError.log",
+		"/home/istin/Scaricati/PSC_C and CPP/esercitazione2/CMakeLists.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exposure",
+			"_exposure",
+			"material",
+			"Mat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/istin/Documenti/OpenCV_tutorial/own_features/CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "feature_det.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documenti/OpenCV_tutoriaò/imgProcessing.cpp"
+			],
+			[
+				"ma",
+				"~/Documenti/Cpp_Ex/ex0/include/mat.h"
+			],
+			[
+				"cma",
+				"~/Documenti/Cpp_Ex/ex0/CMakeLists.txt"
+			],
+			[
+				"mat",
+				"~/Documenti/Cpp_Ex/ex0/include/mat.h"
+			],
+			[
+				"m",
+				"~/Documenti/Cpp_Ex/ex0/src/mat.cpp"
+			],
+			[
+				"cpp",
+				"~/Documenti/Cpp_Ex/ex0/src/vec.cpp"
+			],
+			[
+				"vec",
+				"~/Documenti/Cpp_Ex/ex0/include/vec.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

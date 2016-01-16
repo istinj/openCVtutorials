@@ -1,0 +1,1 @@
+/home/istin/Documenti/OpenCV_tutorial/own_features/build/CMakeFiles/own_features.dir

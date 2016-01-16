@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( own_features )
+find_package( OpenCV REQUIRED )
+add_executable( own_features src/my_features.cpp )
+target_link_libraries( own_features ${OpenCV_LIBS} )
+set_target_properties( own_features PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin )

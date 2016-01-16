@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( my_kernel )
+find_package( OpenCV REQUIRED )
+add_executable( my_kernel src/myKernel.cpp )
+target_link_libraries( my_kernel ${OpenCV_LIBS} )
+set_target_properties( my_kernel PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin )
